@@ -1,7 +1,5 @@
 ## Try it
 
-[http://my-json-server.typicode.com/mlsova/EsaSkyfakeRestAPI/](http://my-json-server.typicode.com/mlsova/EsaSkyfakeRestAPI/)
-
 [http://my-json-server.typicode.com/mlsova/EsaSkyfakeRestAPI/mission](http://my-json-server.typicode.com/mlsova/EsaSkyfakeRestAPI/mission)
 
 [http://my-json-server.typicode.com/mlsova/EsaSkyfakeRestAPI/modes](http://my-json-server.typicode.com/mlsova/EsaSkyfakeRestAPI/modes)
