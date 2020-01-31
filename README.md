@@ -1,7 +1,11 @@
 ## Try it
 
-[https://my-json-server.typicode.com/typicode/demo](https://my-json-server.typicode.com/typicode/demo)
+[http://my-json-server.typicode.com/mlsova/EsaSkyfakeRestAPI/](http://my-json-server.typicode.com/mlsova/EsaSkyfakeRestAPI/)
 
-## Use your own data
+[http://my-json-server.typicode.com/mlsova/EsaSkyfakeRestAPI/mission](http://my-json-server.typicode.com/mlsova/EsaSkyfakeRestAPI/mission)
 
-Fork it and change `db.json` values or create a repo with a `db.json` file.
+[http://my-json-server.typicode.com/mlsova/EsaSkyfakeRestAPI/modes](http://my-json-server.typicode.com/mlsova/EsaSkyfakeRestAPI/modes)
+
+This fake Json Service has been created as part of the project MLSOVA in order to support prototyping stages
+
+In case of doubts or questions contact mdoctor@cosmos.esa.int
